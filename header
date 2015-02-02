@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Page Title</title>
+</head>
+
+<body>
+  <h1>And the Beat Goes On...</h1>
+  <p>Welcome to my amazing site! On my webpage you have a chance to listen to my favorite musical artists. I hope enjoy!</p>
+  <p>Feel free to check out some of the artists I have featured and learn more about their art.</p>
+  <br>
+  </br>
+<a href="https://soundcloud.com/stream">This is a link</a>
+<img src="soundcloud_logo.jpg" alt="Soundcloud.com" width="200" height="200">
+
+</body>
+
+</html>
+
